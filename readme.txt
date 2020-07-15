@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 create a new branch.
 test2 sh
 no-ff merge
+branch work
 
